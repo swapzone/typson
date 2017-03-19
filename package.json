@@ -1,6 +1,6 @@
 {
   "name": "typson",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "generates json-schema from TypeScript declarations",
   "homepage": "https://github.com/lbovet/typson",
   "author": {
@@ -20,6 +20,10 @@
     {
       "name": "Bart van der Schoor",
       "url": "https://github.com/Bartvds"
+    },
+    {
+      "name": "Sascha Gros",
+      "url": "https://github.com/swapzone"
     }
   ],
   "repository": {
